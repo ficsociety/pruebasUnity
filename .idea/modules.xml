@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boardgame2-debug/boardgame2-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/boardgame2-debug/boardgame2-debug.iml" group="boardgame2-debug" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build.gradl/build.gradl.iml" filepath="$PROJECT_DIR$/.idea/modules/build.gradl/build.gradl.iml" group="build.gradl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build.gradlee/build.gradlee.iml" filepath="$PROJECT_DIR$/.idea/modules/build.gradlee/build.gradlee.iml" group="build.gradlee" />
+    </modules>
+  </component>
+</project>
